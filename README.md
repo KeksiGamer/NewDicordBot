@@ -1,6 +1,12 @@
 # NewDicordBot
 > An easy way to start discord bot coding
 
+## bot settings
+select language is node.js
+configure the run button is `node .`
+
+-------------------------------------------
+
 **replit.com guide**
 ## You can get the bot to stay online 24/7
 1. go to: https://uptimerobot.com/
