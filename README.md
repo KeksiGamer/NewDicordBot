@@ -11,6 +11,8 @@
 5. do step 4 until the bot is online in Console
 6. don't worry about anything else!
 
+## Löydät apua linkistä👇
+**[help link](https://discord.gg/ufdKrz7BUK)**
 
 -------------------------------------------
 
