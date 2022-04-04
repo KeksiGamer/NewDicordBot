@@ -2,8 +2,8 @@
 > An easy way to start discord bot coding
 
 ## bot settings
-select language is node.js
-configure the run button is `node .`
+1. select language is node.js
+2. configure the run button is `node .`
 
 -------------------------------------------
 
