@@ -4,8 +4,7 @@
 ## before you start
 1. select language is node.js
 2. configure the run button is `npm start`
-3. type in Console: `npm install discord.js`
-4. type in Console: `npm install express`
+3. type in Console: `npm fund`
 
 
 -------------------------------------------
