@@ -12,8 +12,6 @@
 7. click: create monitor
 8. click again: create monitor
 9. click: close
-10. go replit.com
-11. click on replit.com: run
 
 ## invite bot discord server
 1. go to: https://discord.com/developers
@@ -31,3 +29,7 @@
 13. click: I'm not robot
 14. now go back **[Discord Developers](https://discord.com/developers)** go to your own bot and go to bot settings
 15. copy token!
+16. go back **[replit.com](https://replit.com)** and go to the sidebar lock image
+17. enter the token in Kay and the value of the bot token you copied
+18. click: add new secret
+19. click on replit.com: run
