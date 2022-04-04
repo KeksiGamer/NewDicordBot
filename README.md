@@ -11,8 +11,8 @@
 5. do step 4 until the bot is online in Console
 6. don't worry about anything else!
 
-## Löydät apua linkistä👇
-**[help link](https://discord.gg/ufdKrz7BUK)**
+## You can find help at the links👇
+**[help link](https://discord.gg/ufdKrz7BUK)** or  **[help link 2](https://keksigamer.webnode.fi/apua-discord-botin-tekemiseen/)**
 
 -------------------------------------------
 
