@@ -1,8 +1,8 @@
 # NewDicordBot
 > An easy way to start discord bot coding
 
-## You can get the bot to stay online 24/7
 **replit.com guide**
+## You can get the bot to stay online 24/7
 1. go to: https://uptimerobot.com/
 2. log in
 3. click: add new monitor
