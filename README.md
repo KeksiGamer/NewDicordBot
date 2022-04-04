@@ -9,6 +9,7 @@
 3. type in Console: `npm fund`
 4. reload the site and click run and wait
 5. do step 4 until the bot is online in Console
+6. don't worry about anything else!
 
 
 -------------------------------------------
