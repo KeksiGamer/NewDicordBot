@@ -1,15 +1,17 @@
 # NewDicordBot
 > An easy way to start discord bot coding
 
+**replit.com guide**
+
 ## before you start
-1. select language is node.js
+1. select language is `node.js`
 2. configure the run button is `npm start`
 3. type in Console: `npm fund`
+4. reload the site and click run and wait
+5. do step 4 until the bot is online in Console
 
 
 -------------------------------------------
-
-**replit.com guide**
 
 ## invite bot discord server
 1. go to: https://discord.com/developers
