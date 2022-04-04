@@ -1,23 +1,16 @@
 # NewDicordBot
 > An easy way to start discord bot coding
 
-## bot settings
+## before you start
 1. select language is node.js
 2. configure the run button is `node .`
+3. type in Console: `npm install discord.js`
+4. type in Console: `npm install express`
+
 
 -------------------------------------------
 
 **replit.com guide**
-## You can get the bot to stay online 24/7
-1. go to: https://uptimerobot.com/
-2. log in
-3. click: add new monitor
-4. monitor type is: HTTP(s)
-5. add frendly name: NewDiscordBot
-6. URL (or IP) is https://<you_replit_username>.NewDiscordBot.repl.co
-7. click: create monitor
-8. click again: create monitor
-9. click: close
 
 ## invite bot discord server
 1. go to: https://discord.com/developers
@@ -39,3 +32,15 @@
 17. enter the token in Kay and the value of the bot token you copied
 18. click: add new secret
 19. click on replit.com: run
+
+
+## You can get the bot to stay online 24/7
+1. go to: https://uptimerobot.com/
+2. log in
+3. click: add new monitor
+4. monitor type is: HTTP(s)
+5. add frendly name: NewDiscordBot
+6. URL (or IP) is https://<you_replit_username>.NewDiscordBot.repl.co
+7. click: create monitor
+8. click again: create monitor
+9. click: close
