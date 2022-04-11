@@ -1,5 +1,7 @@
 # NewDicordBot
 > An easy way to start discord bot coding
+> > this guide in english is this
+> > > guide in guide in finnish **[is this](https://keksigamer.webnode.fi/apua-discord-botin-tekemiseen/)**
 
 **replit.com guide**
 
